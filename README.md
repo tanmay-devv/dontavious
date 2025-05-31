@@ -1,2 +1,2 @@
 # dontavious
-cryptocurrency
+learning and building my own cryptocurrency
